@@ -14,4 +14,4 @@ The Boat UI Landing Page features a sleek and interactive layout, combining bold
 
 ## 🌐 Live Demo
 
-Check out the live demo here:
+Check out the live demo here:https://boat-ui-landing-page.netlify.app/
